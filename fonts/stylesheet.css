@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Pier Sans';
+    src: url('PierSans-Regular.eot');
+    src: url('PierSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PierSans-Regular.woff2') format('woff2'),
+        url('PierSans-Regular.woff') format('woff'),
+        url('PierSans-Regular.ttf') format('truetype'),
+        url('PierSans-Regular.svg#PierSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
